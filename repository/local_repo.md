@@ -44,7 +44,7 @@ $ sudo pip install docker-registry
 * CentOS
 ```
 $ sudo yum install -y python-devel libevent-devel python-pip gcc xz-devel
-$ sudo python-pip install docker-registry
+$ sudo pip install docker-registry
 ```
 
 也可以从 [docker-registry](https://github.com/docker/docker-registry) 项目下载源码进行安装。
